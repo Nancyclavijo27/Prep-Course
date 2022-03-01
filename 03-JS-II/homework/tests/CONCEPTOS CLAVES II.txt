@@ -1,0 +1,5 @@
+CONCEPTOS CLAVES II
+For: se utiliza para repetir una o más instrucciones un determinado número de veces. Es un bucle, en el cual conocemos el número de veces que queremos que se ejecute.
+&&: Es un operador lógico, se entiende como si fuera un "y". Es decir, en la condición de la sentencia IF, se puede añadir este operador para que en vez de una sola condición, se cumplan 2 o más condiciones.
+||: es un operador lógico (or) Evalúa los operandos de izquierda a derecha. Para cada operando, convierte el valor a booleano. Si el resultado es true, se detiene y retorna el valor original de ese operando.
+¡ : Es un operador lógico (no) devuelve el valor booleano opuesto de lo que pasa

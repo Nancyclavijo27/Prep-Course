@@ -235,7 +235,7 @@ function esVocal(letra){
   }
   return "Dato incorrecto"
 }
-
+ ;
 
 
 // No modificar nada debajo de esta línea
