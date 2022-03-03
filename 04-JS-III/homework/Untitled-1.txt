@@ -1,0 +1,2 @@
+Arrays:
+Son  una colección de datos que pueden ser similares, diferentes  o combinados formando parte de listados separados siempre por comas los cuales poseen un índice con el cual  podemos acceder y modificar, cambiar o quitar de ser necesario.  Tanto la longitud como el tipo de los elementos de un array son variables.
