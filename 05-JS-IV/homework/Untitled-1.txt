@@ -1,0 +1,5 @@
+Objetos: son como los subgrupos que definen el comportamiento de diferentes clases, es como una estructura de datos que invoca un método 
+Propiedades: son como las características necesarias para la ejecución del programa 
+Métodos: son funciones que retornan un dato 
+Bucle for…in: Nos permite ejecutar un código la cantidad de veces que se le indique 
+ Notación de puntos vs notación de corchetes: Los puntos son más rápidos para escribir, se leen más fácil, pero para acceder a ellos debemos conocer el contenido de la función, mientras que los corchetes nos permiten acceder a propiedades especiales por medio de variables 
