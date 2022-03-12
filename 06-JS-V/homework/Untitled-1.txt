@@ -1,0 +1,2 @@
+Prototype:Es como una plantilla copia en la cual los objetos poseen las mismas características entre sí, y podemos utilizar como la herencia de un padre.
+Constructors (de Clases): Es como un método que posee unas características especiales, con las cuales podemos crear objetos que compartan las mismas características
