@@ -1,0 +1,1 @@
+Funciones Callback: Es como una función que contiene funciones y puede llamar otra función. 
